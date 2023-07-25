@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @EliseCM. I'm a self-motivated entrepreneur, baker, and aspiring technical writer.
-- 👀 I’m interested in financial tech, e-commerce, and accessibility.
+# Hi, I'm Elise Morgan.
+
+- 👋 I'm a technical writer and baker.
+- 👀 I’ve worked in e-commerce, WordPress, and accessibility.
 - 🌱 I’m here to gain experience contributing to documentation.
 - 💞️ I’m looking to collaborate on any #goodfirstissue.
 - 🤝 I'm looking for a job and available for immediate hire.
